@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Varshithakumble/Vulnerability-Management-Project)**
+- **[STIG Implementation](https://github.com/Varshithakumble/Vulnerability-Management-Project)**
 
 
 ## 🚨 Threat Hunting and Security Operations
